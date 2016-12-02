@@ -33,3 +33,10 @@ harder?
     Without using Git or GitHub we can collaborate by sending files to each other by e-mail
     or copying those files and giving to the other person. But checking errors or changes made
     in the file will be difficult.
+
+When would you want to make changes in a separate branch rather than directly in master? What
+benefits does each approach have?
+
+    When collaborating with others, it is useful to make our changes in separate branch so that
+    before incorporating those changes in master branch, we can get feedback about those changes
+    and also get corrected if there is any mistake.
