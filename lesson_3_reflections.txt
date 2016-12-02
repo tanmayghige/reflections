@@ -20,4 +20,9 @@ another?
     So, I will Fork someone's repository to make some changes I like, will clone my repository
     locally when I cannot edit the files on GitHub because of size of code, and create a Branch
     when I want to try some new features or experimental changes without affecting my original
-    file.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    It allows us to check and examine the differene between version we created locally and
+    version we created in remote so that we can make appropriate change and merging if
+    possible and achieves our result.
