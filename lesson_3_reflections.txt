@@ -10,3 +10,14 @@ up-to-date with your remote repository?
     Sometimes there might be a bug which we don't want in our local repository or we didn't
     like the changes we made in remote and don't want them to be present in local repository,
     pulling changes manually is the best thing to do.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of
+another?
+
+    Forks are the copies of repositories of some other person in our profile. clones are copies
+    of our own repository on GitHub or locally. Branches are created for checking out experimental
+    features without making changes in our master file.
+    So, I will Fork someone's repository to make some changes I like, will clone my repository
+    locally when I cannot edit the files on GitHub because of size of code, and create a Branch
+    when I want to try some new features or experimental changes without affecting my original
+    file.
